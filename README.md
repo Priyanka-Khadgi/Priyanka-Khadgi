@@ -4,16 +4,16 @@
 
 DevOps Engineer focused on **cloud infrastructure, CI/CD automation, containerization, and Infrastructure as Code**.
 
-I build and maintain hands-on projects using **AWS, Terraform, Kubernetes, Docker, Jenkins, Ansible, Git, and Linux**, with an emphasis on automation, repeatability, and reliable deployments.
+I build hands-on solutions using **AWS, Terraform, Kubernetes, Docker, Jenkins, Ansible, Git, and Linux**, with a focus on automation, repeatability, and reliable deployments.
 
-This profile showcases my **practical DevOps work, infrastructure implementations, CI/CD pipelines, and Kubernetes projects**.
+This profile showcases practical implementations across **cloud infrastructure, CI/CD pipelines, containerized applications, Kubernetes deployments, and infrastructure automation**.
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Cloud:**
-AWS (EC2, VPC, S3, IAM, RDS, Lambda, CloudWatch, EKS)
+AWS, EC2, VPC, S3, IAM, RDS, Lambda, CloudWatch, EKS
 
 **Infrastructure as Code:**
 Terraform
@@ -38,44 +38,68 @@ Git, GitHub
 
 ---
 
-## 🚀 Featured Work
+## 🚀 Featured Projects
 
-My repositories cover practical implementations of:
+### ☁️ EKS Cluster Deployment
 
-* **AWS infrastructure provisioning using Terraform**
-* **Modular Infrastructure as Code**
-* **EKS cluster deployment and Kubernetes workloads**
-* **Jenkins-based CI/CD pipelines**
-* **Dockerized applications**
-* **Multi-environment infrastructure workflows**
-* **Infrastructure automation with Ansible**
-* **Monitoring and observability**
-* **Cloud and DevOps architecture**
+Terraform-based deployment of an **Amazon EKS cluster and managed node group on AWS**, with Jenkins automation for Terraform operations.
+
+**Technologies:** AWS, EKS, Kubernetes, Terraform, Jenkins, IAM
 
 ---
 
-## 📂 What You'll Find Here
+### 🔄 Ekart — CI/CD Pipeline
 
-This GitHub contains hands-on implementations demonstrating how different DevOps tools work together across the delivery lifecycle:
+End-to-end CI/CD implementation for a Java application using **Jenkins, Maven, SonarQube, Nexus, Docker, and GitHub**.
+
+**Technologies:** Java, Maven, Jenkins, Docker, SonarQube, Nexus, GitHub
+
+---
+
+### 🏗️ Modular AWS Infrastructure with Terraform
+
+Reusable Terraform modules for provisioning AWS infrastructure, including **VPC, subnets, EC2 instances, S3, and Jenkins infrastructure**.
+
+**Technologies:** AWS, Terraform, VPC, EC2, S3, Linux, Shell Scripting
+
+---
+
+### 🔧 Jenkins, SonarQube & Nexus
+
+DevOps tooling implementation demonstrating integration of **Jenkins for CI/CD, SonarQube for code quality analysis, and Nexus for artifact management**.
+
+**Technologies:** Jenkins, SonarQube, Nexus, Docker
+
+---
+
+## 🔄 DevOps Workflow
+
+My projects demonstrate an end-to-end delivery workflow combining source control, build automation, quality checks, artifact management, containerization, infrastructure provisioning, and deployment.
 
 **GitHub → Jenkins → Maven → SonarQube → Nexus → Docker → Kubernetes → AWS**
 
-along with Terraform-based infrastructure provisioning and automation.
+Terraform is used to provision and manage cloud infrastructure as code, while Ansible is used for configuration and automation.
 
 ---
 
-## 📈 Currently Building
+## 📂 Repository Focus
 
-* AWS cloud infrastructure with Terraform
-* Kubernetes and EKS deployments
-* CI/CD automation with Jenkins
-* Containerized application deployments
-* Infrastructure automation and operational workflows
+This profile contains hands-on implementations covering:
+
+* AWS infrastructure provisioning
+* Modular Terraform configurations
+* EKS and Kubernetes deployments
+* Jenkins CI/CD pipelines
+* Docker containerization
+* Infrastructure automation
+* Linux and Shell scripting
+* Cloud infrastructure management
+* DevOps tooling integration
 
 ---
 
-## 🔗 Connect With Me
+## 🔗 Connect
 
 **LinkedIn:** [linkedin.com/in/priyanka-khadgi](https://linkedin.com/in/priyanka-khadgi)
 
-Thanks for visiting. Feel free to explore the repositories and see the implementations in action. ⭐
+Thanks for visiting my profile. Feel free to explore the repositories and review the implementations. ⭐
