@@ -1,53 +1,81 @@
-# Hi, I'm Priyanka 👋  
+# Hi, I'm Priyanka 👋
 
-### Aspiring DevOps Engineer | Cloud • Linux • CI/CD • Automation  
+### DevOps Engineer | AWS | Kubernetes | Terraform | Jenkins | Docker
 
-I’m a tech enthusiast transitioning into **DevOps**, focused on building reliable, scalable, and automated systems.  
-I believe in **learning by doing**, so this GitHub is my proof of work — real projects, experiments, and continuous improvement.
+DevOps Engineer focused on **cloud infrastructure, CI/CD automation, containerization, and Infrastructure as Code**.
 
----
+I build and maintain hands-on projects using **AWS, Terraform, Kubernetes, Docker, Jenkins, Ansible, Git, and Linux**, with an emphasis on automation, repeatability, and reliable deployments.
 
-## 🚀 What I’m Working On
-- Building CI/CD pipelines from scratch  
-- Backend development using **Python & Flask**  
-- Version control and collaboration with **Git & GitHub**  
-- Linux fundamentals and system operations  
-- Exploring **cloud platforms** and DevOps best practices  
+This profile showcases my **practical DevOps work, infrastructure implementations, CI/CD pipelines, and Kubernetes projects**.
 
 ---
 
-## 🛠️ Skills & Tools
-- **Languages:** Python, SQL  
-- **Backend:** Flask  
-- **DevOps & Tools:** Git, GitHub, Linux, CI/CD  
-- **Data & Visualization:** Excel, Power BI  
-- **Others:** HTML, Automation workflows  
+## 🛠️ Tech Stack
+
+**Cloud:**
+AWS (EC2, VPC, S3, IAM, RDS, Lambda, CloudWatch, EKS)
+
+**Infrastructure as Code:**
+Terraform
+
+**Containers & Orchestration:**
+Docker, Kubernetes, Helm
+
+**CI/CD & Build:**
+Jenkins, GitHub, Maven, Nexus
+
+**Configuration Management:**
+Ansible
+
+**Monitoring & Code Quality:**
+Prometheus, Grafana, SonarQube
+
+**Operating Systems & Scripting:**
+Linux, Shell Scripting
+
+**Version Control:**
+Git, GitHub
 
 ---
 
-## 📌 How I Learn
-- Hands-on projects  
-- Breaking concepts down to the basics  
-- Documenting everything I build  
-- Improving one system at a time  
+## 🚀 Featured Work
+
+My repositories cover practical implementations of:
+
+* **AWS infrastructure provisioning using Terraform**
+* **Modular Infrastructure as Code**
+* **EKS cluster deployment and Kubernetes workloads**
+* **Jenkins-based CI/CD pipelines**
+* **Dockerized applications**
+* **Multi-environment infrastructure workflows**
+* **Infrastructure automation with Ansible**
+* **Monitoring and observability**
+* **Cloud and DevOps architecture**
 
 ---
 
-## 📂 Repositories You’ll Find Here
-- Mini DevOps projects  
-- Flask applications  
-- Practice repositories for Linux, Git, and automation  
-- Step-by-step learning implementations  
+## 📂 What You'll Find Here
+
+This GitHub contains hands-on implementations demonstrating how different DevOps tools work together across the delivery lifecycle:
+
+**GitHub → Jenkins → Maven → SonarQube → Nexus → Docker → Kubernetes → AWS**
+
+along with Terraform-based infrastructure provisioning and automation.
 
 ---
 
-## 🎯 Goal
-To grow into a **skilled DevOps Engineer** who can design, automate, and optimize systems that actually work in the real world.
+## 📈 Currently Building
+
+* AWS cloud infrastructure with Terraform
+* Kubernetes and EKS deployments
+* CI/CD automation with Jenkins
+* Containerized application deployments
+* Infrastructure automation and operational workflows
 
 ---
 
-## 🤝 Let’s Connect
-- **LinkedIn:** [linkedin.com/in/priyanka-khadgi](https://linkedin.com/in/priyanka-khadgi)
+## 🔗 Connect With Me
 
-Thanks for stopping by! ⭐  
-Feel free to explore my repositories and follow my journey.
+**LinkedIn:** [linkedin.com/in/priyanka-khadgi](https://linkedin.com/in/priyanka-khadgi)
+
+Thanks for visiting. Feel free to explore the repositories and see the implementations in action. ⭐
